@@ -1,0 +1,11 @@
+---
+content_type: external-resource
+external_url: https://scholar.harvard.edu/files/lkatz/files/chk_aer_mto_0416.pdf
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: "\u201CThe Effects of Exposure to Better Neighborhoods on Children: New Evidence\
+  \ from the Moving to Opportunity Experiment.\u201D (PDF)"
+uid: fafc2820-5208-4c17-b59a-c23d47137dcb
+wayback_url: ''
+---

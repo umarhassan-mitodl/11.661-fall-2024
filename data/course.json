@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Labor Economics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "744a649a-985b-a66d-b723-6c56d07258b0",
+      "c322ae43-64ff-ef0e-f69e-97169ee5f319"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6546b06d-5036-4d7a-a826-3b2f93902dde",
+    "website": "14661-labor-economics-i"
+  },
+  "course_title": "Labor Economics I",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course provides a systematic development of the theory of labor supply, labor demand, and human capital. Topics include wage and employment determination, turnover, search, immigration, unemployment, equalizing differences, and institutions in the labor market. Particular emphasis is placed on the interaction between theoretical and empirical modeling.",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "14.661A",
+  "primary_course_number": "14.661",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Supplemental Exam Materials",
+    "Problem Sets",
+    "Written Assignments"
+  ],
+  "site_uid": "4d545972-ad44-41a4-8db8-17045c2139e1",
+  "site_short_id": "11.661-fall-2024",
+  "site_url_path": "courses/14-661-labor-economics-i-fall-2024"
+}

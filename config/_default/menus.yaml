@@ -1,0 +1,40 @@
+leftnav:
+- identifier: dd19e57d-d0dc-4f54-be04-46fb95b08e77
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 57ec2771-1684-4ab3-98cb-7967fb69aedd
+  name: Readings
+  pageRef: /pages/readings2
+  weight: 20
+- identifier: 76104f18-dc0a-4cf5-9739-e6b4247ce8d4
+  name: Schedule
+  pageRef: /pages/schedule
+  weight: 30
+- identifier: c5d311f0-11ff-4e8e-aada-828cd7b8182e
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 6d1c46b9-bdb2-494a-b075-109c777397f7
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: dbed6f68-bd16-456c-85c5-14026d85c582
+  name: Practice Final Exam
+  pageRef: /resources/mit14_661_f24_practice_final_pdf
+  weight: 60
+- identifier: 2ed26ca5-7a46-40aa-88c9-02f62e9a22eb
+  name: 'Readings: Angrist'
+  pageRef: /pages/readings
+  parent: 57ec2771-1684-4ab3-98cb-7967fb69aedd
+  weight: 10
+- identifier: e6da42ec-e7d4-4318-b8dc-1d518d586015
+  name: 'Readings: Acemoglu'
+  pageRef: /pages/readings-acemoglu
+  parent: 57ec2771-1684-4ab3-98cb-7967fb69aedd
+  weight: 20
+- identifier: 4f227063-53af-446a-be26-186720a7eba0
+  name: Empirical Project
+  pageRef: /pages/empirical-project
+  parent: 6d1c46b9-bdb2-494a-b075-109c777397f7
+  weight: 10

@@ -1,0 +1,52 @@
+---
+content_type: page
+description: This page presents information on the course topic and policies for 14.661
+  Labor Economics I.
+draft: false
+title: Syllabus
+uid: dd19e57d-d0dc-4f54-be04-46fb95b08e77
+---
+## Class Meeting Times
+
+Lectures: 2 sessions/week, 1.5 hours/session
+
+Recitations: 1 session/week, 1.5 hours/session 
+
+## Prerequisites
+
+The prerequisites for this course are intermediate microeconomics (including basic duality) and familiarity with econometrics at the level of {{% resource_link "d90d21ca-ac04-454d-825f-4185fd5bcfb4" "*Mostly Harmless Econometrics*" %}}. For courses covering this background material, see {{% resource_link "1bddbedf-721d-4ce5-877e-e448a0a5999a" "*14.04 Intermediate Microeconomic Theory*" %}} and {{% resource_link "89c6c872-ee44-40c4-bf1a-281dda1c4293" "*14.32 Econometrics*" %}} on MIT OpenCourseWare.
+
+## Description
+
+This course covers traditional and contemporary topics in labor economics and aims to encourage the development of independent research interests. The course is divided into two halves; Prof. Joshua Angrist teaches the first part, and Prof. Daron Acemoglu teaches the second part.
+
+The class is offered in two versions, 14.661 and 14.661A, meeting together.
+
+All 14.661/14.661A participants are expected to do the following:
+
+- Attend class and recitation each week.
+- Take an out-of-class final during exam week.
+- Complete 4 problem sets.
+- Come to class prepared to discuss readings.
+- Be prepared for a weekly brief impromptu presentation (BIP) in which a randomly chosen student summarizes 1 of 2 articles assigned from our reading list. BIPs are timed (90 seconds) and done without slides or notes.
+
+In addition, 14.661A participants are expected to complete an empirical project involving replication and extension of published work. The 14.661A empirical project is detailed in a separate note posted online. Economics PhD students aiming to satisfy requirements for Labor as a major field should take 14.661A.
+
+Auditors are expected to do the coursework required for credit.
+
+## Grading
+
+Labor students may earn a total of 100 regular points plus 5 participation points as follows:
+
+### 14.661
+
+- 4 problem sets (10 points each)
+- Final (60 points)
+- 5 participation points for attendance awarded as .25 each for up to 20 classes, excluding the first (i.e., up to 5 excused absences)
+
+### 14.661A
+
+- 4 problem sets (10 points each)
+- Final (40 points)
+- Empirical project (20 points)
+- 5 participation points awarded as in 14.661
