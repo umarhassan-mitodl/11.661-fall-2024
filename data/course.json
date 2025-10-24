@@ -24,7 +24,7 @@
     "website": "14661-labor-economics-i"
   },
   "course_title": "Labor Economics I",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This course provides a systematic development of the theory of labor supply, labor demand, and human capital. Topics include wage and employment determination, turnover, search, immigration, unemployment, equalizing differences, and institutions in the labor market. Particular emphasis is placed on the interaction between theoretical and empirical modeling.",
   "department_numbers": [
@@ -32,7 +32,6 @@
   ],
   "extra_course_numbers": "14.661A",
   "primary_course_number": "14.661",
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Supplemental Exam Materials",

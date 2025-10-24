@@ -5,8 +5,6 @@ draft: false
 file: /courses/14-661-labor-economics-i-fall-2024/mit14_661_f24_problem_set_2.pdf
 file_size: 332290
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
